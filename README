@@ -1,0 +1,12 @@
+OpenEmbedded/Yocto BSP layer for chainer
+=============================================
+
+This layer provides chainer recipes for use with OpenEmbedded
+and/or Yocto.
+
+This layer inherits pypi and setuptools recipe.
+
+Contributing
+------------
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/clear-code/meta-chainer.
