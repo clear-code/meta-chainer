@@ -10,3 +10,5 @@ Contributing
 ------------
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/clear-code/meta-chainer.
+
+For Yocto 2.0(jethro), please consider to use [rz-g1-numpy](https://github.com/clear-code/meta-chainer/tree/rz-g1-numpy) branch.
